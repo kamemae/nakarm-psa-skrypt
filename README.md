@@ -13,7 +13,7 @@ Node.js (+ opcjonalny git)
     node index.mjs
 ```
 ## Instalacja bez użycia git
-Pobierz repozytorium klikając w zielony przycisk z napisem z napisem "Code" lub wejdź w zakładke releases, następnie wybierz "Source Code (zip)".<br>
+Pobierz repozytorium klikając w zielony przycisk z napisem z napisem "Code" lub w zakładke releases, następnie wybierz "Source Code (zip)".<br>
 Pobrane pliki należy wypakować w dowolnym miejscu i wejść w folder.<br>
 Jeżeli w folderze widzisz pliki takie jak "main.mjs", "log.txt" lub "package.json" jesteś we własciwym folderze.<br>
 Następnie otwórz konsole (kliknij w pasek scieżki pliku i wpisz tam "cmd")<br>
