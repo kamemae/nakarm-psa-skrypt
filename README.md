@@ -17,17 +17,18 @@ Pobierz repozytorium klikając w zielony przycisk z napisem z napisem "Code" lub
 Pobrane pliki należy wypakować w dowolnym miejscu i wejść w folder.<br>
 Jeżeli w folderze widzisz pliki takie jak "main.mjs", "log.txt" lub "package.json" jesteś we własciwym folderze.<br>
 Następnie otwórz konsole (kliknij w pasek scieżki pliku i wpisz tam "cmd")<br>
+W otwartej konsoli wpisz:
 ```
     npm i
 ```
-Po tym jak pobiorą się pakiety otwórz wpisz w konsoli polecenie
+Po tym jak pobiorą się pakiety wpisz w konsoli polecenie:
 ```
     node index.mjs
 ```
 Tym sposobem uruchomiłeś skrypt.
 
 ## Uruchamianie skryptu
-Aby uruchomić skrypt należy otworzyć konsole i wpisać polecenie
+Aby uruchomić skrypt należy otworzyć konsole i wpisać polecenie:
 ```
     node index.mjs
 ```
