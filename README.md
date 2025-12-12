@@ -1,4 +1,5 @@
 # Nakarm Psa Olx Skrypt
+ Skrypt wybiera losowego psa z ostatniej strony na nakarmpsa.olx.pl<br>
  Skrypt w chwili obecnej (12.12.2025) nie jest zabroniony przez organizatorów akcji "Nakarm Psa"!
 
 ## Wymagane programy
