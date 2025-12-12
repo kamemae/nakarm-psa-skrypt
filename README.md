@@ -35,5 +35,5 @@ Aby uruchomić skrypt należy otworzyć konsole i wpisać polecenie
 
 # UWAGA
 Nie otwieraj pliku "log.txt" w czasie działania skryptu.
-Aby wyłączyć skrypt wystarczy zamknąć program lub kliknąć <kbd>ctrl</kbd> + <kbd>C</kbd>
+Aby wyłączyć skrypt wystarczy zamknąć program lub kliknąć <kbd>ctrl</kbd> + <kbd>C</kbd><br>
 Skrypt nie był testowany na innym systemie operacyjnym niż Microsoft Windows 10
