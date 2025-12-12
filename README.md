@@ -17,7 +17,6 @@ Pobierz repozytorium klikając w zielony przycisk z napisem z napisem "Code" lub
 Pobrane pliki należy wypakować w dowolnym miejscu i wejść w folder.
 Jeżeli w folderze widzisz pliki takie jak "main.mjs", "log.txt" lub "package.json" jesteś we własciwym folderze.
 Następnie otwórz konsole (kliknij w pasek scieżki pliku i wpisz tam "cmd")
-W konsoli wpisz następujące polecenie
 ```
     npm i
 ```
@@ -34,6 +33,6 @@ Aby uruchomić skrypt należy otworzyć konsole i wpisać polecenie
 ```
 
 # UWAGA
-Nie otwieraj pliku "log.txt" w czasie działania skryptu.
+Nie otwieraj pliku "log.txt" w czasie działania skryptu.<br>
 Aby wyłączyć skrypt wystarczy zamknąć program lub kliknąć <kbd>ctrl</kbd> + <kbd>C</kbd><br>
 Skrypt nie był testowany na innym systemie operacyjnym niż Microsoft Windows 10
