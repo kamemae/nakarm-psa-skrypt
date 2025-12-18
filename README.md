@@ -8,10 +8,10 @@ Node.js (+ opcjonalny git)
 
 ## Instalacja przy użyciu narzędzia git
 ```
-    git clone https://github.com/kamemae/nakarm-psa-skrypt.git
-    cd nakarm-psa-skrypt 
-    npm i
-    node index.mjs
+git clone https://github.com/kamemae/nakarm-psa-skrypt.git
+cd nakarm-psa-skrypt 
+npm i
+node index.mjs
 ```
 ## Instalacja bez użycia git
 Pobierz repozytorium klikając w zielony przycisk z napisem z napisem "Code" lub w zakładke releases, następnie wybierz "Source Code (zip)".<br>
@@ -20,18 +20,18 @@ Jeżeli w folderze widzisz pliki takie jak "index.mjs", "log.txt" lub "package.j
 Następnie otwórz konsole (kliknij w pasek scieżki pliku i wpisz tam "cmd")<br>
 W otwartej konsoli wpisz:
 ```
-    npm i
+npm i
 ```
 Po tym jak pobiorą się pakiety wpisz w konsoli polecenie:
 ```
-    node index.mjs
+node index.mjs
 ```
 Tym sposobem uruchomiłeś skrypt.
 
 ## Uruchamianie skryptu
 Aby uruchomić skrypt należy otworzyć konsole i wpisać polecenie:
 ```
-    node index.mjs
+node index.mjs
 ```
 
 # UWAGA
